@@ -14,9 +14,9 @@ cd eth-docker
 ./ethd config
 ```
 
-Expose RPC endpoints by modifying the .env file to have the following flag appended with `el-shared.yml` and `cl-shared.yml`:
+Expose RPC endpoints by modifying the .env file to have the following flag appended with `el-shared.yml` and `cl-shared.yml` (example with prysm and nethermind):
 ```shell
-COMPOSE_FILE=lighthouse-cl-only.yml:geth.yml:el-shared.yml:cl-shared.yml
+COMPOSE_FILE=prysm-cl-only.yml:nethermind.yml:el-shared.yml:cl-shared.yml
 ```
 
 Then run:
