@@ -25,3 +25,7 @@ https://github.com/Consensys/teku/compare/master...MarcusWentz:teku:delaySyncTes
 ### Nimbus
 
 https://github.com/status-im/nimbus-eth2/compare/stable...MarcusWentz:nimbus-eth2:delaySyncTest
+
+### Lodestar
+
+https://github.com/ChainSafe/lodestar/compare/unstable...MarcusWentz:lodestar:delaySyncTest
