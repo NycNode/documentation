@@ -23,6 +23,19 @@ Then run:
 ```shell
 ./ethd up
 ```
+See logs with 
+```shell
+docker compose logs -f
+```
+Consensus logs
+```shell
+docker compose logs -f consensus
+```
+Execution logs
+```shell
+docker compose logs -f execution
+```
+
 
 Source:
 
