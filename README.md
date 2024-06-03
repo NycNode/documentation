@@ -20,8 +20,8 @@ https://github.com/sigp/lighthouse/compare/stable...MarcusWentz:lighthouse:delay
 
 ### Teku
 
-???
+https://github.com/Consensys/teku/compare/master...MarcusWentz:teku:delaySyncTest
 
 ### Nimbus
 
-???
+https://github.com/status-im/nimbus-eth2/compare/stable...MarcusWentz:nimbus-eth2:delaySyncTest
