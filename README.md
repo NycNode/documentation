@@ -44,6 +44,12 @@ https://github.com/eth-educators/eth-docker/issues/1789#issuecomment-2028835211
 
 Ideally we delay the sync by 6 blocks to ensure transactions have settled over enough time to avoid potential Ethereum reorgs.
 
+Idea 1:
+
+Turn the ETH Docker containers on and off with a timer?
+
+Idea 2:
+
 Possibly done with the following clients:
 
 ### Prysm (Golang)
