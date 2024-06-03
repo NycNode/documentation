@@ -6,6 +6,18 @@ Use ETH Docker to setup Ethereum clients with docker:
 
 https://github.com/eth-educators/eth-docker
 
+Setup with the following commands in Linux
+
+```shell
+git clone https://github.com/eth-educators/eth-docker
+cd eth-docker
+./ethd config
+```
+
+Source:
+
+https://github.com/eth-educators/eth-docker/issues/1789#issuecomment-2028835211
+
 ## Delay Sync Conensus Clients
 
 Ideally we delay the sync by 6 blocks to ensure transactions have settled over enough time to avoid potential Ethereum reorgs.
