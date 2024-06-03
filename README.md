@@ -10,22 +10,24 @@ https://github.com/eth-educators/eth-docker
 
 Ideally we delay the sync by 6 blocks to ensure transactions have settled over enough time to avoid potential Ethereum reorgs.
 
-### Prysm
+Possibly done with the following clients:
+
+### Prysm (Golang)
 
 https://github.com/prysmaticlabs/prysm/compare/develop...MarcusWentz:prysm:delaySyncTest
 
-### Lighthouse
+### Lighthouse (Rust)
 
 https://github.com/sigp/lighthouse/compare/stable...MarcusWentz:lighthouse:delaySyncTest
 
-### Teku
+### Teku (Java)
 
 https://github.com/Consensys/teku/compare/master...MarcusWentz:teku:delaySyncTest
 
-### Nimbus
+### Nimbus (Nim)
 
 https://github.com/status-im/nimbus-eth2/compare/stable...MarcusWentz:nimbus-eth2:delaySyncTest
 
-### Lodestar
+### Lodestar (Typescript)
 
 https://github.com/ChainSafe/lodestar/compare/unstable...MarcusWentz:lodestar:delaySyncTest
