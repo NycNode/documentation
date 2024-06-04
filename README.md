@@ -40,6 +40,28 @@ Source:
 
 https://github.com/eth-educators/eth-docker/issues/1789#issuecomment-2028835211
 
+## Consensus Layer Client Development Resources
+
+### Prysm (Golang)
+
+https://docs.prylabs.network/docs/contribute/contribution-guidelines
+
+### Lighthouse (Rust)
+
+https://lighthouse-book.sigmaprime.io/contributing.html
+
+### Teku (Java)
+
+https://github.com/Consensys/teku/blob/master/CONTRIBUTING.md
+
+### Nimbus (Nim)
+
+No contribution documentation.
+
+### Lodestar (Typescript)
+
+https://github.com/ChainSafe/lodestar/blob/unstable/CONTRIBUTING.md
+
 ## Delay Sync Conensus Clients
 
 Ideally we delay the sync by 6 blocks to ensure transactions have settled over enough time to avoid potential Ethereum reorgs.
