@@ -66,6 +66,10 @@ https://github.com/ChainSafe/lodestar/blob/unstable/CONTRIBUTING.md
 
 Ideally we delay the sync by 6 blocks to ensure transactions have settled over enough time to avoid potential Ethereum reorgs.
 
+Details in Prysm issue:
+
+https://github.com/prysmaticlabs/prysm/issues/13870
+
 Idea 1:
 
 Turn the ETH Docker containers on and off with a timer?
