@@ -62,6 +62,10 @@ No contribution documentation.
 
 https://github.com/ChainSafe/lodestar/blob/unstable/CONTRIBUTING.md
 
+### Prysm commands
+
+https://docs.prylabs.network/docs/prysm-usage/parameters
+
 ## Delay Sync Conensus Clients
 
 Ideally we delay the sync by 6 blocks to ensure transactions have settled over enough time to avoid potential Ethereum reorgs.
